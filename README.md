@@ -3,8 +3,13 @@
 ## Description
 This project involves manual testing of a live e-commerce web application designed for purchasing pharmacy products online. The application allows users to register, log in, browse products, search and filter items, manage their wishlist and profile, track orders, and more. The project was conducted using Agile principles and documented thoroughly across all testing phases.
 
-
-
+## features 
+    • User Authentication (Login/Register)
+    • Product Search & Filtering
+    • Wishlist & Cart functionality
+    • Order Tracking
+    • Profile Management
+    • UI Responsiveness & SEO (alt tags)
 ## Objectives:
     • Ensure that all user functionalities work as expected
     • Detect UI/UX and functional bugs through exploratory testing
@@ -64,6 +69,12 @@ This project involves manual testing of a live e-commerce web application design
     • Browser Compatibility: Chrome, Firefox, Safari
     • Devices Used: Desktop (Windows), iPhone
     • Documentation: MS Excel & Word
+  
+## Conclusion
+Testing was completed successfully on the live staging site.
+ Major functional features are working as expected.
+ Few UI and usability issues were found and logged.
+ The application is ready for production release after fixing critical bugs.
 
 
 ## Author
