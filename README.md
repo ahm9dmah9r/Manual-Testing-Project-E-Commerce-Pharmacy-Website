@@ -6,6 +6,12 @@ Users can register, log in, browse and search products, manage wishlists and add
 
 ## Features
 
+## Objectives:
+    • Ensure that all user functionalities work as expected
+    • Detect UI/UX and functional bugs through exploratory testing
+    • Validate the responsiveness and accessibility of the site
+    • Report bugs and verify test coverage against requirements
+
 ### User Authentication
 - User registration with unique email and password, including email confirmation.
 - Secure login with email/password and password visibility toggle.
@@ -46,8 +52,20 @@ Users can register, log in, browse and search products, manage wishlists and add
 - Compatible with major web browsers and mobile devices.  
 - Internet connection required for full functionality.
 
-## Testing Scope
-The application has been tested thoroughly against 13 detailed user stories covering core functionalities, usability, security, and SEO compliance.
+## Testing Scope 
+    Derived test scenarios from 13 detailed User Stories
+    • Designed and executed 24 test cases using Excel
+    • Reported UI/UX and functional bugs based on live testing
+    • Used Azure DevOps to write and organize user stories and test cases
+    • Delivered test artifacts: Test Plan, Test Cases, Bug Report, and Summary
+## Tools & Environment:
+    • Testing Type: Manual Functional Testing + Exploratory Testing
+    • Test Management Tool: Azure DevOps
+    • Platform: Web (Desktop and Mobile)
+    • Browser Compatibility: Chrome, Firefox, Safari
+    • Devices Used: Desktop (Windows), iPhone
+    • Documentation: MS Excel & Word
+
 
 ## Author
 Ahmed Maher
