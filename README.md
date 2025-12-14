@@ -1,10 +1,9 @@
 # E-Commerce Application
 
 ## Description
-This is a user-friendly e-commerce application designed to provide customers with a seamless shopping experience.  
-Users can register, log in, browse and search products, manage wishlists and addresses, track orders, and securely complete purchases.
+This project involves manual testing of a live e-commerce web application designed for purchasing pharmacy products online. The application allows users to register, log in, browse products, search and filter items, manage their wishlist and profile, track orders, and more. The project was conducted using Agile principles and documented thoroughly across all testing phases.
 
-## Features
+
 
 ## Objectives:
     • Ensure that all user functionalities work as expected
